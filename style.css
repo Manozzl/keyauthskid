@@ -1,0 +1,213 @@
+body{
+    background-color:rgb(9, 9, 13);
+    font-family:  "Press Start 2P";
+    margin: 10px;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    font-family:  "Press Start 2P";
+    margin-top: 30px;
+    margin-left: 250px;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-family: "Ubuntu Sans";
+
+}
+
+pre{
+    color: rgb(255, 255, 255);
+    font-family: "Ubuntu Sans";
+
+}
+
+h1{
+    font-family: "Ubuntu Sans";
+}
+
+#boldprice{
+    font-weight: bold;
+}
+
+
+
+#smallprice{
+    font-size:10px;
+}
+
+#buybtn1{
+    background-color: rgb(59, 68, 87); 
+    border:10px;
+    border: 10px;
+    margin-top: 10px;
+    border-radius: 30px;
+    font-family: "Ubuntu Sans";
+    width: 230px;
+    height: 45px;
+    transition: all 0.3s;
+    color: white;
+
+}
+
+#buybtn2{
+    background-color: rgb(17, 67, 34); 
+    border:10px;
+    border: 10px;
+    margin-top: 10px;
+    border-radius: 30px;
+    font-family: "Ubuntu Sans";
+    width: 230px;
+    height: 45px;
+    transition: all 0.3s;
+    color: white;
+
+}
+
+
+#buybtn3{
+    background-color: rgb(17, 32, 67); 
+    border:10px;
+    border: 10px;
+    margin-top: 10px;
+    border-radius: 30px;
+    font-family: "Ubuntu Sans";
+    width: 230px;
+    height: 45px;
+    transition: all 0.3s;
+    color: white;
+
+}
+
+
+
+#buybtn1:hover{
+    background-color: rgb(177, 174, 174); 
+
+}
+
+#buybtn2:hover{
+    background-color: rgb(9, 230, 123); 
+
+}
+
+#buybtn3:hover{
+    background-color: rgb(9, 75, 230); 
+
+}
+
+
+#prices1{
+
+    border-width: 1px;
+    border-radius: 20px;
+    border-color:blueviolet;
+    padding:3px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    width: 340px;
+    height: 840px;
+    margin-right:30px;
+    margin-left: 26px;
+    background-color: rgb(15,15,23);
+    transition: all 0.4s;
+
+
+}
+
+#prices2{
+
+    border-width: 1px;
+    border-radius: 20px;
+    border-color:blueviolet;
+    margin-right: 30px;
+    padding: 6px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    width: 320px;
+    height: 835px;
+    background-color: rgb(15,15,23);
+    transition: all 0.4s;
+
+}
+
+#prices3{
+    border-width: 1px;
+    border-radius: 20px;
+    border-color:blueviolet;
+    padding: 6px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    width: 320px;
+    height: 835px;
+    background-color: rgb(15,15,23);
+    transition: all 0.4s;
+
+}
+
+#homebtn{
+    background-color:rgb(9, 9, 13);
+    border-style: none;
+    color: rgb(148, 146, 146);
+    position: relative;
+    top:-68px;
+    left: 700px;
+}
+
+#Discordbtn{
+    background-color:rgb(9, 9, 13);
+    border-style: none;
+    color: rgb(148, 146, 146);
+    position: relative;
+    top:-68px;
+    left: 750px;  
+}
+
+#Plans{
+    background-color:rgb(9, 9, 13);
+    border-style: none;
+    color: rgb(148, 146, 146);
+    position: relative;
+    top:-68px;
+    left: 800px;  
+}
+
+#Teambtn{
+    background-color:rgb(9, 9, 13);
+    border-style: none;
+    color: rgb(148, 146, 146);
+    position: relative;
+    top:-68px;
+    left: 850px;  
+}
+
+#smallinfo{
+    font-size: 20;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 20px; 
+}
+
+.greenclass{
+    color: green;
+    font-size: 20px;
+}
+
+.bigletterslmao{
+    font-size: 20px;
+}
+
+.trans1:hover{
+    transform:translateY(-30px);
+}
+
+.blueclass{
+    color: rgb(0, 26, 255);
+    font-size: 20px;
+}
+
